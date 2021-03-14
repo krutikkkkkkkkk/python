@@ -1,16 +1,13 @@
-"""
-WAP to create a basic data collection system using python where:
+#WAP to create a basic data collection system using python where:
 
-• It takes username, password and age from input
+#• It takes username, password and age from input
 
-• It must store atleast 2 user
+#• It must store atleast 2 user information taken from input. • After that, it should display the name, total age and avg.
 
-information taken from input. • After that, it should display the name, total age and avg.
+#• Atleast 1 of the datastructures should be used.
 
-• Atleast 1 of the datastructures should be used.
+#• You are allowed to use more than one code block
 
-• You are allowed to use more than one code block
-"""
 
 nameOne = input("Enter 1st Name\n")
 password = input("Enter password\n")
